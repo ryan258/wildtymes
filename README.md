@@ -1,2 +1,2 @@
-# wildtymes
-wild tymes demo
+# vikingo
+Future site for Vikingo Estudio
